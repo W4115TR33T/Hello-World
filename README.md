@@ -2,4 +2,4 @@
 My first repository
 
 Hello Visitors
-  Just new to githup and following the scripts!
+  Just new to github and following the scripts!
